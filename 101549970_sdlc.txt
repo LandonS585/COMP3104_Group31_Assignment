@@ -1,0 +1,1 @@
+The software development lifecycle (SDLC) is the steps used to make software like planning, coding, testing, and releasing.
