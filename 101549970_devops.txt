@@ -1,0 +1,3 @@
+The class is about DevOps which is how developers and operations work together to buidl and release software.
+
+The main goal of DevOps is to release software fsater, catch problems easier, and make releases less risky.

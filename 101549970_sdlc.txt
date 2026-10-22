@@ -1,0 +1,3 @@
+The software development lifecycle (SDLC) is the steps used to make software like planning, coding, testing, and releasing.
+
+DevOps helps the SDLC becasue developers and operations work together so there are fewer mistakes.
